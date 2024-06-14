@@ -4,6 +4,5 @@
 * fazendo teste push
 
 * teste para fixar
-
-* para puxar tudo do repositório para o PC
-* usar comando gir pull
+* usar comando gir pull - para puxar tudo do repositório para o PC
+* comando git fetch - 
